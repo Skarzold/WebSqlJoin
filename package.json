@@ -18,9 +18,11 @@
     "@angular/platform-browser": "~12.0.2",
     "@angular/platform-browser-dynamic": "~12.0.2",
     "@angular/router": "~12.0.2",
+    "@types/websql": "0.0.27",
     "angular-in-memory-web-api": "^0.11.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
+    "websql": "^2.0.2",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
